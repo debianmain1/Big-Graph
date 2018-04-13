@@ -1,0 +1,2 @@
+# Big-Graph
+conky script
